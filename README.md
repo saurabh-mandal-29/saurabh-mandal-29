@@ -5,9 +5,11 @@ I'm @saurabh-mandal-29, a passionate developer and problem solver with interests
 ## 🔧 Technologies & Tools
 
 - **Languages:** Java, HTML, CSS, JavaScript
+- **Tools:** MySql,Git&Github,REST API
 - **Web Development:** React, Node.js, Express
 - **Problem Solving:** Competitive Programming, Data Structures, Algorithms, Reasoning
 - **Exploring:** Machine Learning, Data Science
+
 
 ## 🌱 Currently Learning
 
